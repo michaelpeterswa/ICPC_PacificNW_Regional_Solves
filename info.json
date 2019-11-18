@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters, Nick Latham, Loren Anderson",
+            "projectName": "ICPC_PacificNW_Regional_Solves",
+            "version": "0.0.1",
+            "description": "this is a repository for our solves in the ACM ICPC Pacific Northwest Regional Programming Contest",
+            "longDescription": "",
+            "githubLink": "https://github.com/michaelpeterswa/ICPC_PacificNW_Regional_Solves",
+            "date": "11.18.2019"
+        }
+    ]
+}
